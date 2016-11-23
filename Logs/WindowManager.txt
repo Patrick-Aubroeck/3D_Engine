@@ -1,0 +1,1598 @@
+Month: 10 Hour: 17 Minute: 7 Second: 27	 {SUCCES} 	SuccesFully created a window
+Month: 10 Hour: 17 Minute: 8 Second: 9
+ {SUCCES} 	SuccesFully created a window
+Date:10-25-114::10::54::17	{SUCCES} 	SuccesFully created a window
+Date:10-25-2014::10::56::34	{SUCCES} 	SuccesFully created a window
+Date:10-25-2014:10:59:40	{SUCCES} 	SuccesFully created a window
+Date:10-26-2014:12:54:7	{SUCCES} 	Succesfully created a window
+Date:10-26-2014:13:12:48	{SUCCES} 	Succesfully created a window
+Date:10-27-2014:16:12:26	{WARNING} 	the window that needs to be updated, does not exist
+Date:10-27-2014:16:14:37	{WARNING} 	the window that needs to be updated, does not exist
+Date:10-27-2014:16:15:30	{WARNING} 	the window that needs to be updated, does not exist
+Date:10-27-2014:16:20:5	{WARNING} 	the window that needs to be updated, does not exist
+Date:10-27-2014:16:20:36	{WARNING} 	the window that needs to be updated, does not exist
+Date:10-27-2014:16:26:43	{WARNING} 	the window that needs to be updated, does not exist
+Date:10-27-2014:16:48:4	{WARNING} 	the window that needs to be updated, does not exist
+Date:10-28-2014:13:29:36	{SUCCES} 	Succesfully created a window
+Date:10-28-2014:13:47:48	{SUCCES} 	Succesfully created a window
+Date:10-28-2014:13:48:26	{SUCCES} 	Succesfully created a window
+Date:10-28-2014:13:49:7	{SUCCES} 	Succesfully created a window
+Date:10-28-2014:14:0:8	{SUCCES} 	Succesfully created a window
+Date:10-28-2014:15:11:49	{SUCCES} 	Succesfully created a window
+Date:10-28-2014:15:12:24	{SUCCES} 	Succesfully created a window
+Date:10-28-2014:15:17:4	{SUCCES} 	Succesfully created a window
+Date:10-28-2014:15:19:21	{SUCCES} 	Succesfully created a window
+Date:10-28-2014:15:21:8	{SUCCES} 	Succesfully created a window
+Date:10-28-2014:15:21:28	{SUCCES} 	Succesfully created a window
+Date:10-28-2014:15:22:2	{SUCCES} 	Succesfully created a window
+Date:10-28-2014:15:22:45	{SUCCES} 	Succesfully created a window
+Date:11-1-2014:12:46:42	{SUCCES} 	Succesfully created a window
+Date:11-1-2014:13:16:1	{SUCCES} 	Succesfully created a window
+Date:11-1-2014:15:16:12	{SUCCES} 	Succesfully created a window
+Date:11-1-2014:15:39:42	{SUCCES} 	Succesfully created a window
+Date:11-4-2014:14:21:33	{SUCCES} 	Succesfully created a window
+Date:11-4-2014:14:22:42	{SUCCES} 	Succesfully created a window
+Date:11-4-2014:14:25:3	{SUCCES} 	Succesfully created a window
+Date:11-4-2014:14:26:37	{SUCCES} 	Succesfully created a window
+Date:11-4-2014:14:43:36	{SUCCES} 	Succesfully created a window
+Date:11-9-2014:12:42:44	{SUCCES} 	Succesfully created a window
+Date:11-9-2014:12:48:38	{SUCCES} 	Succesfully created a window
+Date:11-9-2014:12:51:36	{SUCCES} 	Succesfully created a window
+Date:11-9-2014:12:57:19	{SUCCES} 	Succesfully created a window
+Date:11-9-2014:13:8:42	{SUCCES} 	Succesfully created a window
+Date:11-9-2014:13:13:48	{SUCCES} 	Succesfully created a window
+Date:11-9-2014:13:19:6	{SUCCES} 	Succesfully created a window
+Date:11-9-2014:13:24:15	{SUCCES} 	Succesfully created a window
+Date:11-9-2014:13:24:51	{SUCCES} 	Succesfully created a window
+Date:11-9-2014:13:25:51	{SUCCES} 	Succesfully created a window
+Date:11-9-2014:13:35:37	{SUCCES} 	Succesfully created a window
+Date:11-9-2014:13:36:18	{SUCCES} 	Succesfully created a window
+Date:11-9-2014:14:2:50	{SUCCES} 	Succesfully created a window
+Date:11-9-2014:14:2:59	{SUCCES} 	Succesfully created a window
+Date:11-9-2014:14:3:14	{SUCCES} 	Succesfully created a window
+Date:11-9-2014:14:3:50	{SUCCES} 	Succesfully created a window
+Date:11-9-2014:14:4:55	{SUCCES} 	Succesfully created a window
+Date:11-9-2014:15:12:30	{SUCCES} 	Succesfully created a window
+Date:11-9-2014:15:12:31	{SUCCES} 	Succesfully created a window
+Date:11-9-2014:15:12:31	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:31	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:32	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:32	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:32	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:32	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:32	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:33	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:33	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:33	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:34	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:34	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:34	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:34	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:35	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:35	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:35	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:35	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:35	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:36	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:36	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:36	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:36	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:36	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:36	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:36	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:37	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:37	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:37	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:37	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:37	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:37	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:37	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:38	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:38	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:38	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:38	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:38	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:38	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:38	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:39	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:39	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:39	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:39	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:39	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:39	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:39	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:40	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:40	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:40	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:40	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:40	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:41	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:41	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:41	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:41	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:41	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:41	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:42	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:42	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:42	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:42	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:42	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:42	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:43	{WARNING} 	Window already exist
+Date:11-9-2014:15:12:43	{WARNING} 	Window already exist
+Date:11-9-2014:15:17:55	{SUCCES} 	Succesfully created a window
+Date:11-9-2014:15:18:37	{SUCCES} 	Succesfully created a window
+Date:11-9-2014:15:18:42	{SUCCES} 	Succesfully created a window
+Date:11-9-2014:15:26:14	{SUCCES} 	Succesfully created a window
+Date:11-9-2014:15:35:53	{SUCCES} 	Succesfully created a window
+Date:11-9-2014:15:36:1	{SUCCES} 	Succesfully created a window
+Date:11-9-2014:15:38:44	{SUCCES} 	Succesfully created a window
+Date:11-9-2014:15:38:45	{SUCCES} 	Succesfully created a window
+Date:11-9-2014:16:5:9	{SUCCES} 	Succesfully created a window
+Date:11-9-2014:16:5:9	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:10:59:30	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:10:59:30	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:11:0:5	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:11:0:6	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:11:5:4	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:11:5:4	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:11:6:48	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:11:6:49	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:11:8:13	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:11:8:13	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:12:39:19	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:12:39:20	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:12:39:36	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:12:39:37	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:12:40:5	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:12:40:6	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:13:15:40	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:13:17:7	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:13:18:9	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:13:18:9	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:13:18:44	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:13:18:44	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:13:19:7	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:13:19:8	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:14:11:59	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:14:11:59	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:14:13:53	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:14:13:54	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:14:31:0	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:14:31:0	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:14:32:38	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:14:32:38	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:14:33:18	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:14:33:19	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:14:35:21	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:14:35:21	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:14:36:3	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:14:36:3	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:14:45:58	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:14:45:58	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:14:53:6	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:14:53:6	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:14:53:48	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:14:53:48	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:14:57:24	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:14:57:25	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:16:1:51	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:16:1:52	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:16:2:32	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:16:2:33	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:16:6:4	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:16:6:4	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:16:7:44	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:16:7:44	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:16:8:13	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:16:8:14	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:16:9:1	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:16:9:1	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:16:10:13	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:16:10:13	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:16:11:8	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:16:11:8	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:16:12:7	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:16:12:7	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:16:12:47	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:16:12:47	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:16:14:26	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:16:14:26	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:16:15:27	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:16:15:28	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:16:16:12	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:16:16:12	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:16:17:59	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:16:18:0	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:16:21:18	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:16:21:18	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:16:26:24	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:16:26:25	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:16:27:24	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:16:27:24	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:16:28:57	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:16:28:57	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:16:33:35	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:16:33:36	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:16:37:26	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:16:37:26	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:16:41:41	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:16:41:41	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:17:18:7	{SUCCES} 	Succesfully created a window
+Date:11-10-2014:17:18:7	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:8:46:43	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:8:48:24	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:8:51:4	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:8:51:59	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:11:19:20	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:11:23:55	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:11:41:48	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:11:59:43	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:12:0:38	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:12:4:57	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:12:23:27	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:12:36:8	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:12:39:40	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:12:41:58	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:12:43:2	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:12:43:56	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:12:45:2	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:15:6:22	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:15:6:22	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:15:9:28	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:15:9:28	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:15:10:26	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:15:10:26	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:15:18:17	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:15:18:17	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:15:19:52	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:15:19:52	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:15:20:57	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:15:20:57	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:15:21:17	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:15:21:17	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:15:22:3	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:15:22:3	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:15:23:25	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:15:23:25	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:16:29:24	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:16:29:24	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:16:32:21	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:16:32:21	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:16:33:7	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:16:33:7	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:16:34:10	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:16:34:10	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:16:34:37	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:16:34:37	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:16:41:10	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:16:41:10	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:16:43:2	{SUCCES} 	Succesfully created a window
+Date:11-11-2014:16:43:2	{SUCCES} 	Succesfully created a window
+Date:11-12-2014:10:27:45	{SUCCES} 	Succesfully created a window
+Date:11-12-2014:10:27:45	{SUCCES} 	Succesfully created a window
+Date:11-12-2014:10:28:39	{SUCCES} 	Succesfully created a window
+Date:11-12-2014:10:28:39	{SUCCES} 	Succesfully created a window
+Date:11-12-2014:10:36:55	{SUCCES} 	Succesfully created a window
+Date:11-12-2014:10:36:55	{SUCCES} 	Succesfully created a window
+Date:11-12-2014:10:39:0	{SUCCES} 	Succesfully created a window
+Date:11-12-2014:10:39:0	{SUCCES} 	Succesfully created a window
+Date:11-12-2014:10:39:39	{SUCCES} 	Succesfully created a window
+Date:11-12-2014:10:39:39	{SUCCES} 	Succesfully created a window
+Date:11-12-2014:10:45:6	{SUCCES} 	Succesfully created a window
+Date:11-12-2014:10:45:6	{SUCCES} 	Succesfully created a window
+Date:11-12-2014:11:16:38	{SUCCES} 	Succesfully created a window
+Date:11-12-2014:11:16:38	{SUCCES} 	Succesfully created a window
+Date:11-12-2014:11:18:43	{SUCCES} 	Succesfully created a window
+Date:11-12-2014:11:18:43	{SUCCES} 	Succesfully created a window
+Date:11-12-2014:11:29:48	{SUCCES} 	Succesfully created a window
+Date:11-12-2014:11:29:48	{SUCCES} 	Succesfully created a window
+Date:11-12-2014:11:31:44	{SUCCES} 	Succesfully created a window
+Date:11-12-2014:11:31:44	{SUCCES} 	Succesfully created a window
+Date:11-12-2014:11:58:23	{SUCCES} 	Succesfully created a window
+Date:11-12-2014:11:58:23	{SUCCES} 	Succesfully created a window
+Date:11-12-2014:13:17:21	{SUCCES} 	Succesfully created a window
+Date:11-12-2014:13:17:21	{SUCCES} 	Succesfully created a window
+Date:11-12-2014:13:21:14	{SUCCES} 	Succesfully created a window
+Date:11-12-2014:13:21:14	{SUCCES} 	Succesfully created a window
+Date:11-12-2014:16:52:3	{SUCCES} 	Succesfully created a window
+Date:11-12-2014:16:52:3	{SUCCES} 	Succesfully created a window
+Date:11-13-2014:13:15:54	{SUCCES} 	Succesfully created a window
+Date:11-13-2014:13:15:54	{SUCCES} 	Succesfully created a window
+Date:11-13-2014:14:19:53	{SUCCES} 	Succesfully created a window
+Date:11-13-2014:14:19:53	{SUCCES} 	Succesfully created a window
+Date:11-13-2014:14:20:15	{SUCCES} 	Succesfully created a window
+Date:11-13-2014:14:20:15	{SUCCES} 	Succesfully created a window
+Date:11-13-2014:14:20:53	{SUCCES} 	Succesfully created a window
+Date:11-13-2014:14:20:53	{SUCCES} 	Succesfully created a window
+Date:11-13-2014:14:22:8	{SUCCES} 	Succesfully created a window
+Date:11-13-2014:14:22:8	{SUCCES} 	Succesfully created a window
+Date:11-13-2014:15:41:43	{SUCCES} 	Succesfully created a window
+Date:11-13-2014:15:41:43	{SUCCES} 	Succesfully created a window
+Date:11-13-2014:15:48:11	{SUCCES} 	Succesfully created a window
+Date:11-13-2014:15:48:11	{SUCCES} 	Succesfully created a window
+Date:11-13-2014:15:49:33	{SUCCES} 	Succesfully created a window
+Date:11-13-2014:15:49:33	{SUCCES} 	Succesfully created a window
+Date:11-13-2014:15:50:6	{SUCCES} 	Succesfully created a window
+Date:11-13-2014:15:50:6	{SUCCES} 	Succesfully created a window
+Date:11-13-2014:15:50:56	{SUCCES} 	Succesfully created a window
+Date:11-13-2014:15:50:56	{SUCCES} 	Succesfully created a window
+Date:11-13-2014:15:53:4	{SUCCES} 	Succesfully created a window
+Date:11-13-2014:15:53:4	{SUCCES} 	Succesfully created a window
+Date:11-13-2014:15:53:40	{SUCCES} 	Succesfully created a window
+Date:11-13-2014:15:53:40	{SUCCES} 	Succesfully created a window
+Date:11-13-2014:16:0:57	{SUCCES} 	Succesfully created a window
+Date:11-13-2014:16:0:57	{SUCCES} 	Succesfully created a window
+Date:11-14-2014:0:2:30	{SUCCES} 	Succesfully created a window
+Date:11-14-2014:0:2:30	{SUCCES} 	Succesfully created a window
+Date:11-14-2014:0:3:6	{SUCCES} 	Succesfully created a window
+Date:11-14-2014:0:3:6	{SUCCES} 	Succesfully created a window
+Date:11-14-2014:0:3:41	{SUCCES} 	Succesfully created a window
+Date:11-14-2014:0:3:41	{SUCCES} 	Succesfully created a window
+Date:11-15-2014:10:3:23	{SUCCES} 	Succesfully created a window
+Date:11-15-2014:10:3:23	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:11:18:1	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:11:18:1	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:11:19:18	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:11:19:18	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:11:20:51	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:11:20:51	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:11:39:37	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:11:39:37	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:11:41:57	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:11:41:57	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:11:42:57	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:11:42:57	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:11:54:39	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:11:54:39	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:11:55:19	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:11:55:19	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:11:56:3	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:11:56:3	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:11:56:44	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:11:56:44	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:11:59:3	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:11:59:3	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:12:1:42	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:12:1:42	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:12:2:58	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:12:2:58	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:12:5:35	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:12:5:35	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:12:8:14	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:12:8:14	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:12:8:56	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:12:8:56	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:12:9:18	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:12:9:18	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:12:12:5	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:12:12:5	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:15:41:58	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:15:41:58	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:15:51:52	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:15:51:52	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:15:53:0	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:15:53:0	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:15:53:40	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:15:53:40	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:16:0:24	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:16:0:24	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:16:8:28	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:16:8:28	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:16:9:4	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:16:9:4	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:16:22:20	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:16:22:20	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:16:26:10	{SUCCES} 	Succesfully created a window
+Date:11-17-2014:16:26:10	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:9:5:9	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:9:5:9	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:9:6:10	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:9:6:10	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:9:9:23	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:9:9:23	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:9:17:30	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:9:17:31	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:9:23:29	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:9:23:29	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:9:27:0	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:9:27:0	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:9:33:25	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:9:33:25	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:9:34:20	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:9:34:20	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:9:37:3	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:9:37:3	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:9:41:42	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:9:41:42	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:9:44:29	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:9:44:29	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:9:57:52	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:9:57:52	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:10:1:18	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:10:1:18	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:10:6:56	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:10:6:56	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:10:9:11	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:10:9:11	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:10:9:38	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:10:9:38	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:10:11:47	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:10:11:47	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:10:12:33	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:10:12:33	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:10:13:37	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:10:13:37	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:10:15:57	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:10:15:57	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:10:16:16	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:10:16:16	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:10:16:40	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:10:16:40	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:10:17:40	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:10:17:40	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:10:22:38	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:10:22:38	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:10:24:20	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:10:24:20	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:10:29:32	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:10:29:32	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:10:30:58	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:10:30:58	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:10:37:25	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:10:37:25	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:10:48:34	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:10:48:34	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:11:0:26	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:11:0:26	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:11:4:31	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:11:4:31	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:12:1:21	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:12:1:21	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:12:2:37	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:12:2:37	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:12:6:59	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:12:6:59	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:12:10:28	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:12:10:28	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:12:10:56	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:12:10:56	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:12:11:48	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:12:11:48	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:12:34:58	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:12:34:58	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:12:36:41	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:12:36:41	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:12:37:41	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:12:37:41	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:12:45:38	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:12:45:38	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:12:46:24	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:12:46:24	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:12:57:2	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:12:57:2	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:12:58:0	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:12:58:0	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:12:58:34	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:12:59:59	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:13:14:30	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:13:15:40	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:13:27:19	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:13:28:6	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:13:28:25	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:13:29:37	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:13:31:32	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:13:39:11	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:13:43:27	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:13:44:16	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:13:44:58	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:13:47:46	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:14:35:32	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:15:2:0	{SUCCES} 	Succesfully created a window
+Date:11-18-2014:15:48:57	{SUCCES} 	Succesfully created a window
+Date:11-19-2014:10:17:9	{SUCCES} 	Succesfully created a window
+Date:11-19-2014:10:18:42	{SUCCES} 	Succesfully created a window
+Date:11-19-2014:12:12:1	{SUCCES} 	Succesfully created a window
+Date:11-19-2014:12:13:40	{SUCCES} 	Succesfully created a window
+Date:11-19-2014:12:13:52	{SUCCES} 	Succesfully created a window
+Date:11-19-2014:12:15:28	{SUCCES} 	Succesfully created a window
+Date:11-19-2014:12:16:38	{SUCCES} 	Succesfully created a window
+Date:11-19-2014:12:16:46	{SUCCES} 	Succesfully created a window
+Date:11-19-2014:12:16:56	{SUCCES} 	Succesfully created a window
+Date:11-19-2014:12:18:50	{SUCCES} 	Succesfully created a window
+Date:11-19-2014:12:19:10	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:9:58:59	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:11:51:53	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:11:54:37	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:12:0:23	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:12:19:32	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:12:38:46	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:12:40:36	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:12:47:15	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:13:23:43	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:13:37:51	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:13:38:44	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:13:40:2	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:13:42:6	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:13:42:52	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:13:44:48	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:13:46:12	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:13:52:27	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:13:53:45	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:13:54:42	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:13:59:13	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:14:2:37	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:14:3:20	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:14:4:36	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:14:5:35	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:14:7:40	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:14:24:52	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:14:29:38	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:14:30:40	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:14:33:27	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:14:35:39	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:14:36:42	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:14:55:57	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:14:57:35	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:14:59:34	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:15:10:14	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:15:11:7	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:15:13:50	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:15:14:30	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:15:26:29	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:15:27:16	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:15:35:43	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:15:42:10	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:15:49:34	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:15:51:46	{SUCCES} 	Succesfully created a window
+Date:0-5-2015:15:56:40	{SUCCES} 	Succesfully created a window
+Date:0-6-2015:10:13:18	{SUCCES} 	Succesfully created a window
+Date:0-6-2015:11:4:6	{SUCCES} 	Succesfully created a window
+Date:0-6-2015:14:21:29	{SUCCES} 	Succesfully created a window
+Date:0-6-2015:15:15:12	{SUCCES} 	Succesfully created a window
+Date:0-6-2015:15:19:27	{SUCCES} 	Succesfully created a window
+Date:0-6-2015:15:20:5	{SUCCES} 	Succesfully created a window
+Date:0-6-2015:15:36:13	{SUCCES} 	Succesfully created a window
+Date:0-6-2015:15:36:25	{SUCCES} 	Succesfully created a window
+Date:0-6-2015:15:56:6	{SUCCES} 	Succesfully created a window
+Date:0-6-2015:15:57:35	{SUCCES} 	Succesfully created a window
+Date:0-6-2015:16:27:42	{SUCCES} 	Succesfully created a window
+Date:0-7-2015:11:3:27	{SUCCES} 	Succesfully created a window
+Date:0-7-2015:11:10:29	{SUCCES} 	Succesfully created a window
+Date:0-7-2015:11:37:20	{SUCCES} 	Succesfully created a window
+Date:0-7-2015:11:37:55	{SUCCES} 	Succesfully created a window
+Date:0-7-2015:12:2:37	{SUCCES} 	Succesfully created a window
+Date:0-7-2015:12:6:3	{SUCCES} 	Succesfully created a window
+Date:0-7-2015:12:7:38	{SUCCES} 	Succesfully created a window
+Date:0-7-2015:12:10:4	{SUCCES} 	Succesfully created a window
+Date:0-7-2015:12:11:12	{SUCCES} 	Succesfully created a window
+Date:0-7-2015:12:13:5	{SUCCES} 	Succesfully created a window
+Date:0-7-2015:12:16:27	{SUCCES} 	Succesfully created a window
+Date:0-7-2015:12:21:52	{SUCCES} 	Succesfully created a window
+Date:0-7-2015:12:33:42	{SUCCES} 	Succesfully created a window
+Date:0-7-2015:12:35:2	{SUCCES} 	Succesfully created a window
+Date:0-8-2015:10:40:24	{SUCCES} 	Succesfully created a window
+Date:0-8-2015:13:23:7	{SUCCES} 	Succesfully created a window
+Date:0-8-2015:16:47:40	{SUCCES} 	Succesfully created a window
+Date:0-13-2015:16:16:58	{SUCCES} 	Succesfully created a window
+Date:0-13-2015:16:17:24	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:12:44:54	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:12:52:28	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:12:52:44	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:12:53:36	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:12:57:46	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:12:59:49	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:13:22:52	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:13:26:54	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:13:35:25	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:13:35:51	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:13:54:23	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:14:9:49	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:14:16:22	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:14:16:40	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:14:19:31	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:14:21:15	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:14:22:21	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:14:33:25	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:14:33:39	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:14:34:48	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:14:34:56	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:14:35:2	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:14:39:25	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:14:44:31	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:14:49:50	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:15:1:35	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:15:5:11	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:15:16:8	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:15:16:44	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:15:37:59	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:15:38:36	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:15:40:44	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:15:41:59	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:15:45:24	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:15:45:55	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:15:51:20	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:15:51:59	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:15:52:8	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:15:52:19	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:15:53:6	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:15:53:45	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:15:57:3	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:16:4:20	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:16:4:33	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:16:8:43	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:16:9:25	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:16:9:39	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:16:56:21	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:16:57:5	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:16:57:19	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:16:58:11	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:17:0:35	{SUCCES} 	Succesfully created a window
+Date:0-14-2015:18:6:2	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:10:16:18	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:10:17:4	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:10:24:9	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:10:24:19	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:10:24:33	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:10:24:52	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:10:59:4	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:12:3:14	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:12:21:13	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:12:22:31	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:12:23:16	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:12:24:56	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:12:25:30	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:12:26:6	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:12:27:15	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:12:34:13	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:12:35:36	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:12:35:48	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:12:47:15	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:12:48:6	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:12:48:34	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:12:48:51	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:12:49:31	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:12:50:29	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:12:52:10	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:12:55:29	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:12:55:39	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:12:58:28	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:12:58:51	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:13:1:49	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:13:4:2	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:13:4:8	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:13:5:27	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:13:6:3	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:13:6:59	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:13:7:57	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:13:13:11	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:13:13:20	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:13:16:12	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:13:17:22	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:13:17:38	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:13:28:47	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:13:31:39	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:13:35:10	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:14:8:52	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:14:9:31	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:14:21:40	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:14:36:1	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:14:36:44	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:14:41:42	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:14:42:34	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:15:55:51	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:16:9:56	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:16:11:16	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:16:12:37	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:16:13:20	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:16:14:46	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:16:18:1	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:16:19:55	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:16:20:48	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:16:26:29	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:16:28:13	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:16:29:17	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:16:29:34	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:16:29:49	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:16:31:43	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:16:35:22	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:16:35:30	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:16:35:37	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:16:38:25	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:16:38:47	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:16:38:56	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:16:43:27	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:16:45:51	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:16:46:55	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:16:47:41	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:16:48:1	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:16:48:15	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:16:48:37	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:16:49:43	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:16:51:20	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:16:52:17	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:17:2:11	{SUCCES} 	Succesfully created a window
+Date:0-15-2015:17:2:46	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:9:50:7	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:9:51:21	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:10:1:44	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:10:2:23	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:10:2:45	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:10:50:7	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:11:11:18	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:11:16:25	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:11:17:12	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:11:25:48	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:11:29:19	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:11:48:57	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:11:50:18	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:11:54:24	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:12:8:40	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:12:9:19	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:12:9:58	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:12:14:20	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:12:14:44	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:12:17:52	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:12:18:12	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:12:18:23	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:12:58:14	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:12:58:37	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:12:59:20	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:12:59:45	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:13:5:27	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:13:5:44	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:13:11:11	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:13:15:2	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:13:20:25	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:13:21:19	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:13:38:36	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:13:39:2	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:13:39:26	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:13:39:54	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:13:40:14	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:13:50:7	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:13:50:56	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:13:54:26	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:13:55:3	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:13:59:38	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:14:3:12	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:14:27:49	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:14:27:57	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:14:28:25	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:14:29:6	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:14:31:2	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:14:31:15	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:14:38:2	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:14:38:28	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:14:39:51	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:14:41:10	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:15:10:34	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:15:11:4	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:15:11:51	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:15:12:23	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:15:17:42	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:15:20:50	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:15:22:44	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:15:23:3	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:15:23:49	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:15:33:40	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:15:47:7	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:15:56:25	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:15:56:51	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:15:57:13	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:15:57:23	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:15:58:1	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:15:58:48	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:15:59:44	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:16:0:5	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:16:6:9	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:16:10:23	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:16:11:24	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:16:31:41	{SUCCES} 	Succesfully created a window
+Date:0-16-2015:16:44:3	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:13:20:0	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:13:21:50	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:13:35:13	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:13:54:13	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:13:55:46	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:13:56:22	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:14:7:45	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:14:12:15	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:14:12:59	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:14:14:1	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:14:14:34	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:14:15:25	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:14:25:2	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:14:33:2	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:14:39:23	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:14:42:27	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:14:43:59	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:14:44:16	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:14:45:15	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:16:55:15	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:16:57:42	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:16:59:52	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:17:1:4	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:17:6:28	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:17:12:21	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:17:25:45	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:17:33:18	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:17:35:35	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:17:41:0	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:17:49:58	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:17:52:13	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:17:53:8	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:17:57:54	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:17:58:12	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:18:2:0	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:18:2:43	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:18:3:58	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:18:8:59	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:18:11:8	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:18:13:37	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:18:14:55	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:18:15:31	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:18:16:58	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:18:17:19	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:18:18:15	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:18:18:35	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:18:18:52	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:18:19:37	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:18:19:59	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:18:20:59	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:18:21:21	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:18:21:33	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:18:21:47	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:18:22:8	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:18:22:20	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:18:28:38	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:18:29:30	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:18:32:41	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:18:32:50	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:18:41:47	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:18:42:1	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:18:43:18	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:18:43:34	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:18:46:20	{SUCCES} 	Succesfully created a window
+Date:0-17-2015:18:48:52	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:12:59:21	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:12:59:47	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:13:1:13	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:13:1:40	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:13:2:27	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:13:3:9	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:13:5:50	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:13:9:18	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:13:10:30	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:13:13:46	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:13:15:35	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:13:25:35	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:13:26:11	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:13:29:36	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:13:31:27	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:13:33:11	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:13:34:21	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:13:36:36	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:13:40:7	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:13:40:45	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:13:40:59	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:13:41:14	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:14:55:53	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:15:10:4	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:15:15:42	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:15:16:43	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:15:33:27	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:15:34:43	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:15:42:55	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:15:43:19	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:15:48:58	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:15:49:31	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:15:52:2	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:15:52:56	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:15:54:59	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:15:57:44	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:16:4:54	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:16:7:11	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:16:9:29	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:16:14:18	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:16:19:4	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:16:21:41	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:16:22:39	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:16:27:29	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:17:4:31	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:17:27:14	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:17:27:55	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:17:28:58	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:17:59:44	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:18:4:3	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:18:17:13	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:19:13:53	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:19:15:35	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:19:17:2	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:19:18:58	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:19:19:51	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:19:23:52	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:19:24:42	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:19:31:1	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:19:33:14	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:19:36:55	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:19:40:52	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:19:43:5	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:19:45:43	{SUCCES} 	Succesfully created a window
+Date:0-18-2015:19:46:8	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:8:59:0	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:8:59:22	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:9:28:37	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:9:49:19	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:9:57:13	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:9:58:15	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:10:1:28	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:10:2:19	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:10:2:42	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:10:2:55	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:10:10:44	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:10:11:47	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:10:24:27	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:10:30:30	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:10:33:59	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:10:49:7	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:10:52:20	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:10:53:29	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:11:12:57	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:11:14:0	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:11:19:27	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:12:7:14	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:12:14:33	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:12:17:59	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:12:30:48	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:12:45:28	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:12:49:46	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:12:50:16	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:12:52:27	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:12:55:13	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:12:55:28	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:12:56:39	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:13:1:11	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:13:12:42	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:13:19:56	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:13:25:27	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:13:26:9	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:13:28:44	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:13:28:53	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:13:29:56	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:13:32:18	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:13:38:43	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:13:42:41	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:13:49:38	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:13:51:16	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:13:52:18	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:13:52:34	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:13:54:42	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:13:55:45	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:13:58:15	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:13:58:25	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:13:58:45	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:14:0:2	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:14:3:20	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:14:3:38	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:14:10:45	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:14:21:42	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:14:22:33	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:14:23:19	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:14:26:37	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:14:28:23	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:14:30:55	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:14:37:58	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:14:44:9	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:14:45:3	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:14:45:57	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:14:47:16	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:14:47:40	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:14:48:12	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:14:48:59	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:14:54:46	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:14:56:36	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:15:0:15	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:15:1:7	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:15:1:50	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:15:2:5	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:15:3:39	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:15:8:3	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:15:8:48	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:15:10:36	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:15:12:8	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:15:12:30	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:15:16:13	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:15:22:57	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:15:24:52	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:15:25:58	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:15:29:14	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:15:30:34	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:15:31:11	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:15:31:26	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:15:33:2	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:15:33:48	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:15:34:0	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:15:34:43	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:15:36:38	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:15:38:40	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:15:39:8	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:15:40:2	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:15:40:27	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:15:49:57	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:15:55:59	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:16:14:18	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:16:30:13	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:16:30:55	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:16:40:56	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:16:41:14	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:16:41:26	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:16:42:9	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:16:46:51	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:16:52:8	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:16:52:24	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:16:52:43	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:16:53:18	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:16:53:30	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:16:54:47	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:17:0:55	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:17:1:23	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:17:1:44	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:17:2:33	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:17:3:8	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:17:15:8	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:18:17:43	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:19:54:27	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:21:14:5	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:21:14:43	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:21:26:49	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:21:28:27	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:21:28:59	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:21:29:46	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:21:30:31	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:21:30:58	{SUCCES} 	Succesfully created a window
+Date:0-19-2015:21:31:37	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:9:19:5	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:10:1:28	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:10:6:47	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:10:7:32	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:10:8:15	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:10:9:12	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:10:10:12	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:10:13:43	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:10:59:10	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:11:20:38	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:11:50:23	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:12:8:41	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:12:21:41	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:13:2:42	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:13:3:34	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:13:3:51	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:13:11:56	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:13:16:51	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:13:21:1	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:13:21:18	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:13:22:28	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:13:28:21	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:13:29:47	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:14:44:18	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:14:44:42	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:14:45:51	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:14:46:14	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:14:48:44	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:15:16:27	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:15:19:35	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:15:21:55	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:15:25:59	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:15:27:7	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:15:27:47	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:15:29:29	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:15:30:14	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:15:30:24	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:15:33:44	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:15:36:19	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:15:38:52	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:15:41:52	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:15:42:37	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:15:43:18	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:15:46:2	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:15:49:42	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:15:50:28	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:16:10:22	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:16:11:18	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:16:12:38	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:16:17:20	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:16:17:33	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:16:17:43	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:16:17:56	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:16:20:20	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:16:27:12	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:16:31:35	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:16:33:5	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:16:35:41	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:16:47:43	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:16:56:9	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:17:1:9	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:17:6:17	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:17:6:48	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:17:8:48	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:17:9:57	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:17:14:2	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:17:14:16	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:17:14:34	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:17:15:57	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:17:16:56	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:18:4:52	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:18:8:29	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:18:9:46	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:18:10:22	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:18:10:51	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:18:12:44	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:18:14:0	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:18:14:24	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:18:16:39	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:18:18:1	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:18:19:58	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:21:16:34	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:21:17:27	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:21:26:33	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:21:28:8	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:21:29:13	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:21:30:10	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:21:30:29	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:21:42:9	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:21:46:13	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:22:21:32	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:22:24:11	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:22:25:5	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:22:35:4	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:22:36:15	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:22:37:0	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:22:37:30	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:22:38:0	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:22:38:7	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-20-2015:22:50:11	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:22:50:37	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-20-2015:22:53:2	{SUCCES} 	Succesfully created a window
+Date:0-20-2015:22:53:32	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:9:52:18	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:9:52:36	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:10:5:24	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:10:8:38	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:10:46:13	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:10:46:29	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:10:46:42	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:10:49:49	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:11:6:54	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:11:6:58	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:11:10:6	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:11:10:10	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:11:10:19	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:11:10:23	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:11:10:36	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:11:10:55	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:11:11:8	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:11:11:31	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:11:15:10	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:11:49:12	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:11:49:55	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:11:51:17	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:11:51:28	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:11:52:2	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:11:52:15	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:11:56:29	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:11:56:41	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:11:58:40	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:11:58:44	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:12:0:52	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:12:1:3	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:12:1:18	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:12:1:23	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:12:2:12	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:12:3:36	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:12:5:13	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:12:5:27	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:12:6:54	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:12:7:0	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:12:9:55	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:12:10:1	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:12:10:37	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:12:10:51	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:12:18:15	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:12:19:52	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:12:20:4	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:12:22:28	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:12:24:32	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:13:21:17	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:13:23:44	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:13:49:31	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:13:51:15	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:13:52:14	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:13:54:17	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:13:54:37	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:14:4:0	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:14:5:18	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:14:6:13	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:14:6:17	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:14:6:37	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:14:6:46	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:14:7:2	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:14:7:8	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:14:24:27	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:14:24:32	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:14:34:3	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:14:34:43	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:14:49:2	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:14:49:28	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:14:49:54	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:14:51:41	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:15:16:29	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:15:16:34	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:15:16:51	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:15:17:29	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:15:17:47	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:15:17:52	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:15:18:3	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:15:18:10	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:15:18:22	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:15:18:32	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:15:18:49	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:15:19:12	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:15:19:44	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:15:19:49	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:15:20:1	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:15:20:8	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:15:20:22	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:15:20:31	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:15:20:44	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:15:20:50	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:15:21:2	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:15:21:9	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:15:21:41	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:15:21:54	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:15:50:30	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:15:51:1	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:16:3:21	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:16:3:54	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:16:10:48	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:16:11:1	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:16:13:35	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:16:13:38	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:16:18:39	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:16:18:58	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:16:20:22	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:16:20:25	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:16:27:27	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:16:27:30	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:16:29:25	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:16:29:41	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:16:38:24	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:16:38:29	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:16:39:5	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:16:39:24	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:16:39:37	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:16:40:0	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:16:44:44	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:16:44:52	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:16:46:11	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:16:46:19	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:18:4:32	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:18:4:45	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:18:14:26	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:19:22:4	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:19:22:33	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:19:23:2	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:19:23:20	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:19:23:58	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:19:24:46	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:19:25:7	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:19:51:14	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:19:51:57	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:19:52:25	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:19:52:51	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:19:53:12	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:19:53:44	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:20:23:16	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:20:46:15	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:20:48:10	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:20:48:37	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:20:49:4	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:20:49:31	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:20:50:4	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:20:56:1	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:20:56:29	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:20:56:53	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:20:57:28	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:21:29:0	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:21:36:16	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-21-2015:21:36:57	{SUCCES} 	Succesfully created a window
+Date:0-21-2015:21:37:20	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:8:48:45	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:8:48:57	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:9:58:41	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:9:58:58	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:10:9:57	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:10:10:26	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:10:37:9	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:10:38:5	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:10:40:7	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:10:40:14	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:10:40:22	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:10:40:43	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:10:40:55	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:10:41:0	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:10:41:41	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:10:41:50	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:10:49:46	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:10:50:33	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:11:4:41	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:11:4:52	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:11:12:24	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:11:12:43	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:11:13:25	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:11:13:34	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:11:14:1	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:11:14:58	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:11:18:51	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:11:19:9	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:11:19:38	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:11:20:4	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:11:20:26	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:11:20:37	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:11:21:32	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:11:21:44	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:11:38:7	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:11:39:56	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:11:45:22	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:11:45:36	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:11:46:43	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:11:47:1	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:11:49:32	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:11:49:50	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:11:50:7	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:11:50:27	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:11:51:11	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:11:51:59	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:11:52:33	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:11:53:3	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:11:53:13	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:11:54:7	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:11:55:10	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:11:55:29	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:11:59:46	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:0:1	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:12:0:25	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:1:0	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:12:1:15	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:4:36	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:4:47	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:12:8:34	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:9:8	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:12:10:57	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:11:6	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:12:11:51	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:11:57	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:12:12:8	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:12:35	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:12:15:26	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:15:59	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:12:16:23	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:16:46	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:17:13	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:12:17:26	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:17:48	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:12:18:33	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:18:55	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:12:19:9	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:19:29	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:12:23:49	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:24:30	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:12:24:42	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:25:6	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:12:25:26	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:25:40	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:12:30:2	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:30:11	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:12:31:16	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:31:37	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:12:31:53	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:32:6	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:12:33:28	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:34:0	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:12:34:51	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:35:13	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:12:35:39	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:36:14	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:12:36:28	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:36:41	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:12:36:53	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:37:20	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:12:37:41	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:37:58	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:12:38:33	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:38:44	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:12:39:30	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:39:41	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:12:39:59	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:40:9	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:12:40:36	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:40:46	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:12:40:59	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:41:11	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:12:41:21	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:41:31	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:12:43:0	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:43:33	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:12:44:27	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:44:45	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:12:44:56	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:45:53	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:12:49:26	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:49:37	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:12:50:15	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:50:29	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:12:50:56	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:51:17	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:12:51:34	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:51:41	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:12:52:5	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:52:28	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:12:52:41	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:52:57	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:12:53:43	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:54:0	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:12:55:20	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:55:35	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:12:55:49	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:56:5	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:12:56:16	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:56:42	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:12:59:20	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:12:59:36	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:13:11:13	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:13:11:22	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:13:11:42	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:13:11:54	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:13:12:5	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:13:12:23	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:13:42:40	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:13:43:16	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:14:0:34	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:14:1:1	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:14:3:32	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:14:3:52	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:14:4:46	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:14:5:23	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:14:6:3	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:14:20:55	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:14:21:54	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:14:22:18	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:14:22:53	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:14:25:52	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:14:27:43	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:14:31:16	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:14:31:44	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:14:39:57	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:14:40:4	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:14:40:41	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:14:41:3	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:14:42:20	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:14:42:49	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:14:48:1	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:14:48:25	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:16:19:2	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:16:19:47	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:17:47:59	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:17:48:17	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:19:6:8	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:19:6:38	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:19:49:14	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:19:49:55	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:19:58:39	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:19:59:8	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:21:3:41	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:21:4:7	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:21:4:36	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:21:5:14	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:21:5:25	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:21:5:45	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:21:5:48	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:21:6:46	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:21:51:43	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:21:51:56	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:22:8:8	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:22:8:13	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:22:8:23	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:22:8:29	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:22:8:45	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:22:8:56	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:22:9:7	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:22:9:16	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:22:9:33	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:22:9:42	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:22:9:58	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:22:10:12	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:22:10:25	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:22:10:40	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:22:11:31	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:22:11:46	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:22:11:58	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:22:12:17	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:22:12:34	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:22:12:50	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:22:13:5	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:22:13:24	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:22:13:37	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:22:13:49	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:22:22:16	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:22:22:19	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:22:34:30	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:22:34:36	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:22:43:29	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:22:44:35	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:22:44:38	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2015:22:47:18	{SUCCES} 	Succesfully created a window
+Date:0-22-2015:22:47:20	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-23-2015:9:49:24	{SUCCES} 	Succesfully created a window
+Date:0-23-2015:9:49:35	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-23-2015:15:27:26	{SUCCES} 	Succesfully created a window
+Date:0-23-2015:15:28:20	{SUCCES} 	Succesfully created a window
+Date:0-23-2015:15:28:40	{SUCCES} 	Succesfully created a window
+Date:0-23-2015:15:29:42	{SUCCES} 	Succesfully created a window
+Date:0-23-2015:15:31:22	{SUCCES} 	Succesfully created a window
+Date:0-23-2015:15:36:2	{SUCCES} 	Succesfully created a window
+Date:0-23-2015:15:36:50	{SUCCES} 	Succesfully created a window
+Date:0-23-2015:15:40:43	{SUCCES} 	Succesfully created a window
+Date:0-23-2015:15:41:3	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-23-2015:15:58:2	{SUCCES} 	Succesfully created a window
+Date:0-23-2015:15:58:15	{SUCCES} 	Succesfully created a window
+Date:0-23-2015:15:59:31	{SUCCES} 	Succesfully created a window
+Date:0-23-2015:16:0:1	{SUCCES} 	Succesfully created a window
+Date:0-23-2015:16:21:57	{SUCCES} 	Succesfully created a window
+Date:0-23-2015:16:22:3	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-24-2015:12:18:23	{SUCCES} 	Succesfully created a window
+Date:0-24-2015:12:23:41	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-24-2015:14:27:18	{SUCCES} 	Succesfully created a window
+Date:0-24-2015:14:28:19	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-27-2015:13:53:50	{SUCCES} 	Succesfully created a window
+Date:0-27-2015:14:1:24	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:1-2-2015:20:28:41	{SUCCES} 	Succesfully created a window
+Date:1-2-2015:20:29:28	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:1-3-2015:11:28:41	{SUCCES} 	Succesfully created a window
+Date:1-3-2015:11:29:0	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:1-3-2015:11:32:17	{SUCCES} 	Succesfully created a window
+Date:1-3-2015:11:32:21	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:1-5-2015:20:12:6	{SUCCES} 	Succesfully created a window
+Date:1-5-2015:20:14:40	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:1-5-2015:20:15:53	{SUCCES} 	Succesfully created a window
+Date:1-5-2015:20:16:7	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:1-5-2015:20:16:36	{SUCCES} 	Succesfully created a window
+Date:1-5-2015:20:17:23	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:1-6-2015:11:25:4	{SUCCES} 	Succesfully created a window
+Date:1-6-2015:11:26:1	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:1-6-2015:13:14:16	{SUCCES} 	Succesfully created a window
+Date:1-6-2015:13:14:24	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:1-6-2015:13:14:29	{SUCCES} 	Succesfully created a window
+Date:1-6-2015:13:14:36	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:1-6-2015:13:15:1	{SUCCES} 	Succesfully created a window
+Date:1-6-2015:13:15:8	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:1-6-2015:13:16:55	{SUCCES} 	Succesfully created a window
+Date:1-6-2015:13:16:58	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:1-6-2015:13:17:26	{SUCCES} 	Succesfully created a window
+Date:1-6-2015:13:17:46	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:1-6-2015:13:23:19	{SUCCES} 	Succesfully created a window
+Date:1-6-2015:13:23:24	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:1-6-2015:13:23:43	{SUCCES} 	Succesfully created a window
+Date:1-6-2015:13:23:58	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:1-6-2015:14:0:48	{SUCCES} 	Succesfully created a window
+Date:1-6-2015:14:2:36	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:7-2-2015:12:10:33	{SUCCES} 	Succesfully created a window
+Date:7-13-2015:15:3:33	{SUCCES} 	Succesfully created a window
+Date:10-19-2015:14:46:16	{SUCCES} 	Succesfully created a window
+Date:10-19-2015:14:46:55	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:0-22-2016:10:47:44	{SUCCES} 	Succesfully created a window
+Date:0-22-2016:10:48:24	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:10-23-2016:15:44:10	{SUCCES} 	Succesfully created a window
+Date:10-23-2016:15:46:33	{SUCCES} 	Succesfully deleted the window with the windowname : Window1
+Date:10-23-2016:19:0:22	{SUCCES} 	Succesfully created a window
+Date:10-23-2016:19:2:24	{SUCCES} 	Succesfully deleted the window with the windowname : Window1

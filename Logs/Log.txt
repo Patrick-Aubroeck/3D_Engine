@@ -1,0 +1,17 @@
+
+{FATALERROR}	creating the scenemanager failed
+~~~~~~~~~~~~
+{FATALERROR}	creating the scenemanager failed~~~~~~~~~~~~
+{FATALERROR}	creating the scenemanager failed~~~~~~~~~~~~
+{FATALERROR}	creating the scenemanager failed
+~~~~~~~~~~~~
+{FATALERROR}	creating the scenemanager failed
+
+{FATALERROR}	creating the scenemanager failed
+
+{FATALERROR}	creating the scenemanager failed
+
+{FATALERROR} 	creating the scenemanager failed
+
+{FATALERROR} 	creating the scenemanager failed
+

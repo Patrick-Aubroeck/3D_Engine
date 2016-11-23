@@ -1,0 +1,1 @@
+Date:10-28-2014:13:47:48	{ERROR} 	Creation of the inputmanager failed
